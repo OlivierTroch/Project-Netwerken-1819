@@ -1,0 +1,10 @@
+https://www.digitalocean.com/community/tutorials/how-to-copy-files-with-rsync-over-ssh
+https://www.unixmen.com/synchronize-files-directories-across-systems-using-rsync/
+https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
+https://support.rackspace.com/how-to/connecting-to-a-server-using-ssh-on-linux-or-mac-os/
+https://www.techotopia.com/index.php/Configuring_CentOS_Remote_Access_using_SSH
+http://apetec.com/linux/InstallVIM.htm
+https://www.jordanvanbergen.nl/post/170153757314/how-to-setup-rsync-without-password-using-ssh-on?fbclid=IwAR16kD4Z5eb2iFjnr2alHJ5dd0gLkKUrX9YOmUlSJAFqp_TzDG1DuUE8eiA
+https://stackoverflow.com/questions/638975/how-do-i-tell-if-a-regular-file-does-not-exist-in-bash
+https://unix.stackexchange.com/questions/69314/automated-ssh-keygen-without-passphrase-how
+http://www.aupcgroup.com/blog/index.php?/archives/6-Backup-your-web-server-with-rsync,-mysqldump-and-tar.html
